@@ -136,10 +136,6 @@ $ python Teardroid.py -b your_app_name
 
 - ![TaskManager](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-49_RakvqeLWG.jpeg)
 
-### Setup Video
-
-- video : [Setup control panel and build apk](https://www.dropbox.com/s/0fz4c8f06gaf5uj/2023-04-26%2013-57-47.mkv?dl=0)
-
 ### Need something more advanced try ( scatter alfa )
 - If you're looking for a reliable and stable botnet that can meet your advanced needs, I would highly recommend taking a look at Scatter Alfa. Scatter Alfa has been specifically designed to provide advanced functionality and persistence over an extended period of time, making it an ideal choice for users who require persistence and stability.
 - [Learn more about scatter alfa](https://github.com/ScRiPt1337/Teardroid-phprat/blob/master/advanced.md)
