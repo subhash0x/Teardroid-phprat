@@ -138,6 +138,7 @@ $ python Teardroid.py -b your_app_name
 
 ### Need something more advanced try ( scatter alfa )
 - If you're looking for a reliable and stable botnet that can meet your advanced needs, I would highly recommend taking a look at Scatter Alfa. Scatter Alfa has been specifically designed to provide advanced functionality and persistence over an extended period of time, making it an ideal choice for users who require persistence and stability.
+- Demo video available on my telegram channel => https://t.me/scatter1337
 - [Learn more about scatter alfa](https://github.com/ScRiPt1337/Teardroid-phprat/blob/master/advanced.md)
 
 ### Contact info
